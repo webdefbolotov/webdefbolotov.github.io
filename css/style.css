@@ -37,6 +37,8 @@ img{
 }
 
 .header-button{
+	display:inline-block;
+	text-decoration: none;
 	box-shadow: 10px 17px 34px 6px rgba(18, 61, 145, 0.83);
 	border-radius: 25px;
 	background-color: #ffffff;
@@ -150,6 +152,8 @@ footer{
 	margin-bottom: 13px;
 }
 .footer-button{
+	display:inline-block;
+	text-decoration: none;
 	background-color: transparent;
 	border-radius: 50px;
 	border: 1px solid #ffffff;
